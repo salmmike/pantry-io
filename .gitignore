@@ -1,0 +1,7 @@
+build/
+*.old
+CMakeCache.txt
+CMakeFiles/
+.vscode/
+*.lock
+
